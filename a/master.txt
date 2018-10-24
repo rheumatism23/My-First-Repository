@@ -2,3 +2,9 @@ asdasdasd
 func
 hgjg
 1st coomit in master branch
+
+calculator code
+
+cicle
+array
+
