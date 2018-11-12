@@ -1,0 +1,1 @@
+cd C:\Windows & (dir /s /b | find /i ".log") > C:\Users\User\Desktop\res.txt & "C:\Program Files (x86)\Notepad++\notepad++.exe" C:\Users\User\Desktop\res.txt
